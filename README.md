@@ -24,7 +24,7 @@ Cohort: **FutureTech LaunchPad (FTL)**
 
 **Re: Moda** is an AI-powered “Digital Closet & Outfit Generator” that helps users catalog the clothes they already own, experiment with new outfit combinations via natural-language prompts, and receive personalized upcycling or donation recommendations for items they’re not wearing. On the consumer side, users upload photos of their garments, and the app classifies each piece, lets them generate outfit collages (“What should I wear to a beach wedding?”), and even try virtual edits like hemming or color-blocking. On the business side, fashion brands and sustainable retailers can access a dashboard and APIs to view aggregated usage trends, demand-forecast insights, and partner-ready upcycling kits for slow-moving inventory.
 
-**Deployment Website:** [https://re-moda.app](#)
+**Deployment Website:** [https://placeholder-for-now.com](#)
 
 ### Open-source libraries used
 
