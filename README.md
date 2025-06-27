@@ -14,8 +14,8 @@ Cohort: **FutureTech LaunchPad (FTL)**
 - Maria Rivera (Lilliana Cantero)
 
 **Project Code Repository Links**
-- Frontend Repo: [https://github.com/YourOrg/re-moda-frontend](#)  
-- Backend Repo: [https://github.com/YourOrg/re-moda-backend](#)
+- Frontend Repo: [[https://github.com/YourOrg/re-moda-frontend](https://github.com/Re-Moda/Re-Moda-Frontend)](#)  
+- Backend Repo: [[https://github.com/YourOrg/re-moda-backend](https://github.com/Re-Moda/Re-Moda-Backend)](#)
 
 ---
 
