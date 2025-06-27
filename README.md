@@ -12,7 +12,6 @@ Cohort: **FutureTech LaunchPad (FTL)**
 - Jackson Herrick , Stand in for Alfa Salva (Sarvesh Tiku)
 - Yiyu Lin, Stand In for Chockalingam Viswanathan (Paola Negrón)
 - Maria Rivera (Lilliana Cantero)
-- 
 
 **Project Code Repository Links**
 - Frontend Repo: [https://github.com/YourOrg/re-moda-frontend](#)  
