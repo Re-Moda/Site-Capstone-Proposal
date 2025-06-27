@@ -4,14 +4,12 @@ SITE Course Year: **2025**
 Cohort: **FutureTech LaunchPad (FTL) – Salesforce Sponsor**  
 
 **Team Member Names:**  
-- Sarvesh Tiku  
-- Vedika Singh  
-- Anika Nallur  
-- [Your Name]  
-- [Your Name]
+- Lilliana Cantero
+- Sarvesh Tiku
+- Paola Negrón
 
 **Mentor Names:**  
-- [Professional Mentor 1]  
+- [Professional Mentor 1]
 - [Professional Mentor 2]
 
 **Project Code Repository Links**  
