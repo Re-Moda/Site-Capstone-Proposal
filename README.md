@@ -9,12 +9,12 @@ Cohort: **FutureTech LaunchPad (FTL)**
 - Paola Negrón
 
 **Mentor Names:**  
-- Alfa Salva (Sarvesh Tiku)
-- Yiyu Lin, Stand In for Chockalingam Viswanathan ()
+- Jackson Herrick , Stand in for Alfa Salva (Sarvesh Tiku)
+- Yiyu Lin, Stand In for Chockalingam Viswanathan (Paola Negrón)
 - Maria Rivera (Lilliana Cantero)
 - 
 
-**Project Code Repository Links**  
+**Project Code Repository Links**
 - Frontend Repo: [https://github.com/YourOrg/re-moda-frontend](#)  
 - Backend Repo: [https://github.com/YourOrg/re-moda-backend](#)
 
