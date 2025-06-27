@@ -1,7 +1,7 @@
 # SITE Capstone Project
 
 SITE Course Year: **2025**  
-Cohort: **FutureTech LaunchPad (FTL) – Salesforce Sponsor**  
+Cohort: **FutureTech LaunchPad (FTL)**  
 
 **Team Member Names:**  
 - Lilliana Cantero
@@ -9,8 +9,10 @@ Cohort: **FutureTech LaunchPad (FTL) – Salesforce Sponsor**
 - Paola Negrón
 
 **Mentor Names:**  
-- [Professional Mentor 1]
-- [Professional Mentor 2]
+- Alfa Salva (Sarvesh Tiku)
+- Yiyu Lin, Stand In for Chockalingam Viswanathan ()
+- Maria Rivera (Lilliana Cantero)
+- 
 
 **Project Code Repository Links**  
 - Frontend Repo: [https://github.com/YourOrg/re-moda-frontend](#)  
@@ -26,22 +28,22 @@ Cohort: **FutureTech LaunchPad (FTL) – Salesforce Sponsor**
 
 ### Open-source libraries used
 
-- **Frontend**  
-  - React / React Native  
-  - Tailwind CSS / NativeWind  
-  - react-easy-crop  
+- **Frontend**
+  - React / React Native
+  - Tailwind CSS / NativeWind
+  - react-easy-crop
 - **Backend**  
-  - Node.js + Express  
-  - Prisma (ORM)  
-  - Multer (file uploads)  
-- **ML Microservice**  
+  - Node.js + Express
+  - Prisma (ORM)
+  - Multer (file uploads)
+- **ML Microservice**
   - Python + FastAPI  
   - PyTorch / TensorFlow (vision & diffusion models)  
-  - CLIP  
+  - CLIP
 - **Infrastructure & DevOps**  
-  - Docker / Docker Compose  
-  - GitHub Actions  
-  - AWS S3, RDS (Postgres), CloudFront  
+  - Docker / Docker Compose
+  - GitHub Actions 
+  - AWS S3, RDS (Postgres), CloudFront 
 
 ---
 
