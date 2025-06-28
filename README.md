@@ -69,10 +69,24 @@ All of our project planning lives in `planning/`:
 2. **“DIY fashion-lovers find it hard to imagine how simple edits (hemming, color blocking, patches) will look on their actual garments before committing time and materials.”**  
 3. **“Consumers are motivated to be more sustainable but lack personalized suggestions for when to upcycle or donate items that have gone unworn for months.”**
 
+Despite growing consumer awareness around sustainability, the United States still discards over 11.3 million tons of post-consumer textiles into landfills each year—nearly 7.7 % of all municipal solid waste—while only a tiny fraction is actually recycled (just 0.1 % of clothing collected by charities). Fast-fashion consumption has exacerbated the crisis: the average American throws away 81.5 pounds of clothing annually, and garments are kept for half as long as they were two decades ago, leading to the rapid turnover of wardrobes and mounting environmental impacts (water use, greenhouse-gas emissions, microplastic release etc.) Without intuitive, accessible tools to guide individuals in upcycling and mindful wardrobe management, this cycle of overconsumption and waste will continue, straining landfill capacity and depleting scarce resources.
+
+### Target Audience
+
+Our platform is designed for urban, sustainability-minded Millennials and Gen Z (ages 18–35) in the United States, a demographic that:
+
+- **Buys new clothing frequently** — 36 % of Gen Z purchases new apparel at least once a month 
+- **Faces high wardrobe turnover** — On average, they discard over 81.5 pounds of clothing per person each year
+- **Embraces repair and reuse** — 57 % already repair or repurpose garments due to cost-of-living pressures, indicating a readiness to adopt upcycling solutions 
+- **roadmap.md** — week-by-week sprint plan  
+
+
 ### Solutions Brainstorm (Top Pick: “Closet Search” with NL Prompts)  
 - **Closet Search:** natural-language queries (e.g. “Office casual, rainy day”) to auto-generate 3–5 outfit collages from your uploaded items.  
 - **Virtual Try-On Studio:** apply edits (crop hem, add ruffles, recolor) live on garment photos.  
 - **Dormancy Alerts:** flag items unworn for 60+ days and offer upcycling or donation suggestions.
+- By meeting users where they are—with a simple mobile/web interface that transforms “old” clothing into inspiring, shareable upcycling ideas—we empower this audience to reduce waste, extend garment lifecycles, and join the circular-fashion movement.
+
 
 ### Core Feature List  
 1. **Item Upload & Categorization**  
