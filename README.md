@@ -78,8 +78,7 @@ Our platform is designed for urban, sustainability-minded Millennials and Gen Z 
 - **Buys new clothing frequently** — 36 % of Gen Z purchases new apparel at least once a month 
 - **Faces high wardrobe turnover** — On average, they discard over 81.5 pounds of clothing per person each year
 - **Embraces repair and reuse** — 57 % already repair or repurpose garments due to cost-of-living pressures, indicating a readiness to adopt upcycling solutions 
-- **roadmap.md** — week-by-week sprint plan  
-
+- By meeting users where they are—with a simple mobile/web interface that transforms “old” clothing into inspiring, shareable upcycling ideas—we empower this audience to reduce waste, extend garment lifecycles, and join the circular-fashion movement.
 
 ### Solutions Brainstorm (Top Pick: “Closet Search” with NL Prompts)  
 - **Closet Search:** natural-language queries (e.g. “Office casual, rainy day”) to auto-generate 3–5 outfit collages from your uploaded items.  
