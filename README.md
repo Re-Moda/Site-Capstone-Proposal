@@ -99,5 +99,11 @@ _Optional Add-Ons:_ Style Challenges, Community Gallery, AR Previews
 ---
 
 ## System Design Overview
+<img width="936" height="883" alt="Screenshot 2025-07-11 at 16 17 38" src="https://github.com/user-attachments/assets/2645b915-66fe-4082-bf44-63e61c89699c" />
 
 ### Architecture Diagram  
+<img width="1083" height="825" alt="Screenshot 2025-07-11 at 16 18 00" src="https://github.com/user-attachments/assets/6a89cad6-9f8a-4a27-9bdf-2eb52eb411e4" />
+<img width="1370" height="755" alt="Screenshot 2025-07-11 at 16 18 18" src="https://github.com/user-attachments/assets/f86d5241-fa03-453c-a3be-058cd0b74a4f" />
+
+### Trello Board
+<img width="1426" height="719" alt="Screenshot 2025-07-11 at 16 18 45" src="https://github.com/user-attachments/assets/cea9ef3d-f47d-4af9-9694-27708491e0bf" />
